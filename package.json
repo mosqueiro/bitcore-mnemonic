@@ -40,10 +40,10 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.16.0",
+    "bitcore-lib": "https://github.com/mosqueiro/bitcore-lib-zcore.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "bitcore-lib": "^0.16.0"
+    "bitcore-lib": "https://github.com/mosqueiro/bitcore-lib-zcore.git"
   }
 }
